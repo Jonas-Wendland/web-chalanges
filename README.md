@@ -6,9 +6,9 @@ Mein Name ist Jonas Wendland bin 26 Jahre jung und ich bin hier um Web Developer
 
 
 Meine Hobbys sind:
-- Baskeball
-- Videospiele
-- Animes
+- 🏀 Baskeball
+- 🎮 Videospiele
+- 🎎 Animes
 
 
 
