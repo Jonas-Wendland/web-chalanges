@@ -2,7 +2,7 @@
 
 ## About me!
 
-My Name is Jonas and im here to learn how to code! if you have any questions just ask :)
+My Name is Jonas and im here to explore the world of coding :) if you have any questions just ask :)
 
 
 my hobbies are:
