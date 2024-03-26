@@ -6,7 +6,7 @@ My Name is Jonas and im here to learn how to code! if you have any questions jus
 
 
 my hobbies are:
-- 🏀 Baskeball
+- 🏀 Basketball
 - 🎮 Videogames
 - 🎎 Animes
 
