@@ -1,21 +1,21 @@
-# Willkommen visitor zu meiner seite!
+# Welcome visitor!
 
 ## About me!
 
-Mein Name ist Jonas Wendland bin 26 Jahre jung und ich bin hier um Web Developer zu werden!!! Ich bin glücklich verheitat seid 2018 und das wird auch so bleiben :)
+My Name is Jonas and im here to learn how to code! if you have any questions just ask :)
 
 
-Meine Hobbys sind:
+my hobbies are:
 - 🏀 Baskeball
-- 🎮 Videospiele
+- 🎮 Videogames
 - 🎎 Animes
 
 
 
 ![lustiges bild](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBpZGhvbHd4cGtqaDZzcXp2d3l5OGEycHJ2bTkwNzh0bTUyN2VjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wW95fEq09hOI8/giphy.gif)
 
-Hier ein Counter um zu zeigen wie **cool** ich bin :P
+Here a counter to show how **cool** I am.
 
-> Keine Garantie dafür das ich es wirklich bin
+> No guarantee that i am!
 
 ![Visitor Count](https://profile-counter.glitch.me/{Jonstar22}/count.svg)
